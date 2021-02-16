@@ -16,7 +16,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Submitted by: **Umar Kagzi**
 
-Time spent: **5** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
