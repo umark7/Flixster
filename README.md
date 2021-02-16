@@ -7,7 +7,7 @@ The app uses the MovieDB API to find which movies are currently playing and disp
 
 ## Here's a walkthrough of the app in Portrait mode:
 
-<img src='flixster-walk-portrait.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='flixster-updated-with-player.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Landscape Mode:
 
