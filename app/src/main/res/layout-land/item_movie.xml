@@ -24,6 +24,8 @@
         android:layout_marginTop="0dp"
         android:layout_marginEnd="5dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:fontFamily="@font/allerta"
+        android:textColor="@android:color/white"
         android:textSize="24sp"
         tools:text="The Little Things" />
 
@@ -37,5 +39,7 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:fontFamily="@font/allerta"
+        android:textColor="@android:color/white"
         tools:text="Deputy Sheriff Joe &quot;Deke&quot; Deacon joins forces with Sgt. Jim Baxter to search for a serial killer who's terrorizing Los Angeles." />
 </RelativeLayout>
