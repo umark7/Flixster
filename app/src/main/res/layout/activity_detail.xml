@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".DetailActivity">
+    tools:context=".DetailActivity"
+    android:background="@android:color/black">
 
     <com.google.android.youtube.player.YouTubePlayerView
         android:id="@+id/player"
@@ -19,6 +20,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/allerta"
         android:gravity="center"
+        android:textColor="@android:color/white"
         android:textSize="30sp"
         tools:text="It Chapter Two" />
 
@@ -28,7 +30,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:background="@color/white"
+        android:background="@android:color/black"
         android:isIndicator="true"
         android:numStars="10"
         android:progressTint="#FF0000"
@@ -40,6 +42,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/allerta"
         android:gravity="center_horizontal"
+        android:textColor="@android:color/white"
         android:textSize="22sp"
         tools:text="This is about a long movie that is very nice and it is a long movie that talks about long movie vmoit either movies are movies movie." />
 </LinearLayout>
